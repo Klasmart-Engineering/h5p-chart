@@ -1,3 +1,6 @@
+.h5p-chart {
+  font-family: 'Roboto', sans-serif;
+}
 .h5p-chart svg {
   display: block;
   margin: 0 auto;
